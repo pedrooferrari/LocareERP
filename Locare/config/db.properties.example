@@ -1,0 +1,6 @@
+# Copie este arquivo para db.properties e informe os dados da sua instância.
+# Exemplo para SQL Server local com TCP/IP na porta 1433.
+db.url=jdbc:sqlserver://localhost:1433;databaseName=SEU_BANCO;encrypt=true;trustServerCertificate=true
+db.user=SEU_LOGIN_SQL
+db.password=SUA_SENHA
+db.integratedSecurity=false
